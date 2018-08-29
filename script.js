@@ -1,3 +1,3 @@
 function start() {
-  document.getElementByID("p").innerHTML = "Her er jeg!"
+  document.getElementById("p").innerHTML = "Her er jeg!"
 }
