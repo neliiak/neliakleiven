@@ -12,12 +12,12 @@ h1 {
 
 /* Safari 4.0 - 8.0 */
 @-webkit-keyframes mymove {
-    from {top: 0px; opacity: 0%;}
-    to {top: 40px; opacity: 100%;}
+    from {top: 0px; opacity: 0;}
+    to {top: 40px; opacity: 1;}
 }
 
 @keyframes mymove {
-    from {top: 0px; opacity: 0%;}
-    to {top: 40px; opacity: 100%;}
+    from {top: 0px; opacity: 0;}
+    to {top: 40px; opacity: 1;}
 }
 
