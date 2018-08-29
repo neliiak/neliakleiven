@@ -2,7 +2,7 @@ h1 {
   font-family: helvetica;
   font-size: 40px;
   font-weight: 600;
-  color: #000;
+  color: #fff;
   position: relative;
   -webkit-animation: mymove 3s;  /* Safari 4.0 - 8.0 */
   -webkit-animation-fill-mode: forwards; /* Safari 4.0 - 8.0 */
