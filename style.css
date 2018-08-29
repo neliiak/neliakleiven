@@ -13,11 +13,11 @@ h1 {
 /* Safari 4.0 - 8.0 */
 @-webkit-keyframes mymove {
     from {top: 0px;}
-    to {top: 100px; color: pink;}
+    to {top: 40px; color: pink;}
 }
 
 @keyframes mymove {
     from {top: 0px;}
-    to {top: 100px; color: pink;}
+    to {top: 40px; color: pink;}
 }
 
