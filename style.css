@@ -2,7 +2,7 @@ h1 {
   font-family: helvetica;
   font-size: 40px;
   font-weight: 600;
-  color: #fff;
+  color: #333;
   position: relative;
   -webkit-animation: mymove 3s;  /* Safari 4.0 - 8.0 */
   -webkit-animation-fill-mode: forwards; /* Safari 4.0 - 8.0 */
@@ -12,12 +12,12 @@ h1 {
 
 /* Safari 4.0 - 8.0 */
 @-webkit-keyframes mymove {
-    from {top: 0px;}
-    to {top: 40px; color: pink;}
+    from {top: 0px; opacity: 0%;}
+    to {top: 40px; opacity: 100%;}
 }
 
 @keyframes mymove {
-    from {top: 0px;}
-    to {top: 40px; color: pink;}
+    from {top: 0px; opacity: 0%;}
+    to {top: 40px; opacity: 100%;}
 }
 
