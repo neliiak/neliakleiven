@@ -11,4 +11,6 @@ h1 {
 .box {
     padding: 50px;
     background-color: tomato;
+    float: left;
+    margin-right: 20px;
 }
